@@ -1,17 +1,30 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
 .red-div {
   background-color: #FF0000;
+  height: 100px;
+  display: inline-block;
 }
 
 .green-div {
   background-color: #00FF00;
+  height: 100px;
+  display: inline-block;
 }
 
 .blue-div {
   background-color: #0000FF;
+  height: 100px;
+  display: inline-block;
 }
 
 .black-div {
   background-color: #000000;
+  height: 100px;
+  display: inline-block;
 }
 
 .col-1 {
@@ -27,7 +40,7 @@
 }
 
 .col-4 {
-
+  width: 32%;
 }
 
 .col-6 {
